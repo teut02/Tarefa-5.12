@@ -1,0 +1,64 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;      
+    height: 100vh;            
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 100px;
+}
+
+.container-chute {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;          
+    width: 300px;            
+    margin: 0 auto;       
+}
+
+#palpite {
+    flex: 1;                    
+    margin-right: 15px;          
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;           
+    box-sizing: border-box;    
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+p {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.mensagem {
+    font-weight: bold;
+    color: #333;
+}
+
+.tentativas {
+    color: #e74c3c;
+}
