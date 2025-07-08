@@ -1,4 +1,4 @@
-👤 Autor
+## 👤 Autor
     Mateus Conceição da Silva
 
 ---
@@ -39,7 +39,9 @@ Jogo-de-Adivinhacao/
 
 ✅ Como Usar
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/teut02/Tarefa-5.12.git
+1. Clone o repositório:
+    ```
+    git clone https://github.com/teut02/Tarefa-5.12.git
+    ```
+2. Abra o arquivo `index.html` no navegador.
+3. Digite um número e clique em "Chutar".
