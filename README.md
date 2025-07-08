@@ -29,11 +29,13 @@ Projeto desenvolvido com o objetivo de praticar a criação de uma página web e
 
 📁 Estrutura do Projeto
 
-Jogo-de-Adivinhacao/
+```
+jogo-de-adivinhacao/ (tarefa-5.12)
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 ---
 
